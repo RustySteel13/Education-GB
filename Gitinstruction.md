@@ -9,3 +9,16 @@
 Загружаем последнюю версию Git с сайта https://git-scm.com/downloads
 Устанавливаем с настройками по умолчанию.
 Далее устанавливаем VisualStudio Code с оф. сайта https://code.visualstudio.com/Download
+## 3. настройка Git
+При первом использовании Git необходимо представится. для этого нужно ввести в терминале две команды:
+```
+1. git config --global user.email "you@example.com"
+2. git config --global user.name "Ваше имя"
+```
+
+```Python
+while (n <> 0)
+{
+    n++;
+}
+```
