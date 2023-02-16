@@ -110,3 +110,7 @@ git merge branch_name
 git branch -d branch_name 
 ```
 Используется для удалеения ненужных вам веток, где **branch_name** имя ветки которую вы хотите удалить.
+
+
+
+![Logo](GitHub-Emblem.png)
